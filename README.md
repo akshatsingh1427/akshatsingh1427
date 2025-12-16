@@ -22,7 +22,7 @@ My current interests lie in front-end development, data analysis, and machine le
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,linux,bootstrap,php" />
 </p>
 
 <h2 align="center">Current Focus</h2>
