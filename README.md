@@ -64,9 +64,6 @@ Project-based learning and real-world problem solving
   <img src="https://github-profile-trophy.vercel.app/?username=akshatsingh1427&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-Achievements update automatically as contribution history grows.
-</p>
 
 <h2 align="center">Connect</h2>
 
