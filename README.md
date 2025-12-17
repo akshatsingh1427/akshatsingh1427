@@ -89,8 +89,7 @@ Project-based and practical learning
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=REPO_NAME_1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=REPO_NAME_2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=akshatsingh1427&theme=tokyonight" />
 </p>
 
 <h2 align="center">Developer Quote</h2>
