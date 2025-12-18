@@ -16,6 +16,12 @@ B.Tech Computer Science Engineering Student · Front-End Developer · Data Scien
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" />
 </p>
 
+<h2 align="center">My Profile</h2>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/akshatsingh1427?template=classic&isocalendar=1&activity=1&languages=1&followup=1&stars=1" />
+</p>
+
 <h2 align="center">About</h2>
 
 <p align="center">
@@ -30,9 +36,7 @@ consistent practice. My interests include front-end development, data analytics,
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,linux,bootstrap,php" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsingh1427&layout=donut&theme=tokyonight" />
-</p>
+
 
 <h2 align="center">Current Focus</h2>
 
@@ -80,11 +84,8 @@ Project-based and practical learning
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshatsingh1427&theme=github_dark" />
 </p>
 
-<h2 align="center">Achievements</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshatsingh1427&theme=algolia&row=1&column=6&no-frame=true" />
-</p>
+
 
 <h2 align="center">Featured Projects</h2>
 
