@@ -94,7 +94,7 @@ Project-based and practical learning
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=King-Runner&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=FunBros1&theme=tokyonight" />
 </p>
 
 <h2 align="center">Developer Quote</h2>
