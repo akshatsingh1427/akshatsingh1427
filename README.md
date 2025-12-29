@@ -65,10 +65,6 @@ Project-based and practical learning
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsingh1427&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatsingh1427&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -86,16 +82,6 @@ Project-based and practical learning
 
 
 
-
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=UniGuardPP&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsingh1427&repo=FunBros1&theme=tokyonight" />
-</p>
 
 <h2 align="center">Developer Quote</h2>
 
