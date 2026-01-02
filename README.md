@@ -16,12 +16,6 @@ B.Tech Computer Science Engineering Student · Front-End Developer · Data Scien
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" />
 </p>
 
-<h2 align="center">My Profile</h2>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/akshatsingh1427?template=classic&isocalendar=1&activity=1&languages=1&followup=1&stars=1" />
-</p>
-
 <h2 align="center">About</h2>
 
 <p align="center">
