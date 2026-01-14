@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Akshat Singh</h1>
 
 <h3 align="center">
-B.Tech Computer Science Engineering Student · Front-End Developer · Data Science · Machine Learning · Python . Game Dev
+B.Tech Computer Science Engineering Student · Front-End Developer · Data Science · Machine Learning · Python . Game Dev . Backend Developer
 </h3>
 
 <p align="center">
