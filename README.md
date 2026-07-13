@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Computer Science Engineering Student • AI/ML • Data Science • Full-Stack Developer
+Computer Science Engineering Student • AI • Generative AI • MLOps • Cloud-Native • Kubernetes • Computer Vision • Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -22,23 +22,23 @@ Computer Science Engineering Student • AI/ML • Data Science • Full-Stack D
 
 ## 👨‍💻 About Me
 
-```yaml
 Name      : Akshat Singh
 Education : B.Tech Computer Science Engineering
 Location  : India 🇮🇳
 
-Interests :
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Front-End Development
-  - Backend Development
+Focus Areas :
+  - Artificial Intelligence & Generative AI
+  - MLOps & Machine Learning Engineering
+  - Cloud-Native Development & Kubernetes
+  - Full-Stack Development
+  - Computer Vision
 
 Currently :
-  - Building Real-World Projects
-  - Learning Advanced DSA
-  - Exploring System Design
-```
+  - Building Production-Ready AI & Cloud Projects
+  - Solving Data Structures & Algorithms Problems
+  - Learning System Design & Distributed Systems
+  - Exploring DevOps & Scalable Software Architecture
+
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -57,12 +57,36 @@ Currently :
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite&theme=dark"/>
 </p>
 
+<p>
+
+<img src="https://img.shields.io/badge/Chart.js-0D1117?style=for-the-badge&logo=chartdotjs"/>
+
+<img src="https://img.shields.io/badge/HTML5%20Canvas-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive%20Design-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DOM%20Manipulation-0D1117?style=for-the-badge"/>
+
+</p>
+
 <br>
 
 ### ⚙️ Back-End Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,php&theme=dark"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API%20Development-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Authentication-0D1117?style=for-the-badge"/>
+
 </p>
 
 <br>
@@ -89,6 +113,18 @@ Currently :
 
 <img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/CNN-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LSTM-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
+
 </p>
 
 <br>
@@ -103,6 +139,14 @@ Currently :
 
 <img src="https://img.shields.io/badge/Feature%20Engineering-0D1117?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Data%20Preprocessing-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Model%20Evaluation-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Time%20Series-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Predictive%20Analytics-0D1117?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/SMOTE-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Gradient%20Boosting-0D1117?style=for-the-badge"/>
@@ -115,10 +159,50 @@ Currently :
 
 <br>
 
+### 🚀 MLOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,githubactions&theme=dark"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker%20Compose-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CI/CD-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Model%20Deployment-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Model%20Monitoring-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Load%20Testing-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Production%20Deployment-0D1117?style=for-the-badge"/>
+
+</p>
+
+<br>
+
 ### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+</p>
+
+<br>
+
+### ☁️ Cloud Native
+
+<p>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 </p>
 
 <br>
@@ -135,6 +219,8 @@ Currently :
 
 <img src="https://img.shields.io/badge/Game%20Development-0D1117?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/HTML5%20Canvas-0D1117?style=for-the-badge"/>
+
 </p>
 
 <br>
@@ -142,7 +228,7 @@ Currently :
 ### 🛠 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,vercel,npm,powershell&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,kubernetes,figma,vercel,npm,powershell&theme=dark"/>
 </p>
 
 <br>
@@ -153,23 +239,36 @@ Currently :
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github"/>
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker"/>
 
 </p>
 
 </div>
 
 ---
-
 ## 🎯 Areas of Interest
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Native-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow"/>
 
@@ -179,13 +278,13 @@ Currently :
 
 <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0D1117?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Front--End-0D1117?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logo=react"/>
 
-<img src="https://img.shields.io/badge/Back--End-0D1117?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Systems%20Programming-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Game%20Development-0D1117?style=for-the-badge&logo=godotengine"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge"/>
 
 </p>
 
@@ -199,15 +298,79 @@ Currently :
 
 <td width="50%">
 
-### 🤖 ARIA
+### 🚀 QuantOps
 
-**AI Productivity Assistant**
+**Production-Ready MLOps Pipeline**
 
-An intelligent AI assistant that streamlines daily tasks using modern AI workflows, conversational interactions, and productivity-focused automation.
+End-to-end MLOps platform featuring FastAPI, Docker, Prometheus, Grafana, CI/CD, automated testing, model serving, monitoring, and scalable ML deployment.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions"/>
+
+<br><br>
+
+<a href="https://github.com/akshatsingh1427/QuantOps">
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ☸️ ClusterSight
+
+**Cloud-Native Kubernetes Dashboard**
+
+Real-time Kubernetes dashboard with live cluster monitoring, deployment management, pod logs, YAML viewer, metrics, and WebSocket-powered updates.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,kubernetes"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus"/>
+
+<br><br>
+
+<a href="https://github.com/akshatsingh1427/ClusterSight">
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 ARIA
+
+**Adaptive AI Interview Agent**
+
+Multimodal AI interview platform using LLMs, speech recognition, facial analysis, and real-time adaptive interview generation with detailed performance evaluation.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LLaMA%203.3-0D1117?style=flat-square"/>
 
 <br><br>
 
@@ -219,27 +382,25 @@ An intelligent AI assistant that streamlines daily tasks using modern AI workflo
 
 <td width="50%">
 
-### 📞 Telecom Churn Prediction
+### ⚙️ ResumeMaster
 
-**Machine Learning**
+**AI Resume Intelligence Platform**
 
-Predicts customer churn using Gradient Boosting with feature engineering, SMOTE, data visualization, and actionable business insights.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python"/>
+AI-powered resume analyzer with ATS scoring, skill-gap analysis, adaptive learning roadmap, AI career coach, and resume optimization.
 
 <br>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PDF%20Parsing-0D1117?style=flat-square"/>
 
 <br><br>
 
-<a href="https://github.com/akshatsingh1427/Telecom-Customer-Churn-Prediction">
+<a href="https://github.com/akshatsingh1427/ResumeMaster">
 <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
 </a>
 
@@ -251,15 +412,15 @@ Predicts customer churn using Gradient Boosting with feature engineering, SMOTE,
 
 <td width="50%">
 
-### 🤟 AI Sign Language Translator
+### 👁️ Desktop Controller
 
-**Computer Vision & AI**
+**AI Gesture-Based Desktop Controller**
 
-Real-time American Sign Language recognition using MediaPipe, TensorFlow, and NLP to translate hand gestures into readable text.
+Computer vision system using MediaPipe and Machine Learning to control the mouse, volume, brightness, media, and desktop through hand gestures.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <br>
 
@@ -269,7 +430,7 @@ Real-time American Sign Language recognition using MediaPipe, TensorFlow, and NL
 
 <br><br>
 
-<a href="https://github.com/akshatsingh1427/AI-Sign-Language-Translator">
+<a href="https://github.com/akshatsingh1427/Desktop-Controller">
 <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
 </a>
 
@@ -277,77 +438,25 @@ Real-time American Sign Language recognition using MediaPipe, TensorFlow, and NL
 
 <td width="50%">
 
-### 😀 Emotion Detection
+### 🧬 BactEvo
 
-**Deep Learning & Computer Vision**
+**Computational Biology Simulation**
 
-Facial emotion recognition system that classifies seven emotions in real time using CNNs, TensorFlow, OpenCV, and image processing.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+Hybrid agent-based and ODE simulation framework modeling bacterial evolution, mutations, quorum sensing, and antibiotic resistance.
 
 <br>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/CNN-0D1117?style=flat-square"/>
+<br>
+
+<img src="https://img.shields.io/badge/SciPy-0D1117?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square"/>
 
 <br><br>
 
-<a href="https://github.com/akshatsingh1427/Emotion-Detection">
-<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 FunBros
-
-**2D Platformer Game**
-
-A complete platformer game developed in Godot Engine featuring physics-based movement, enemy AI, collectibles, animations, and multiple playable levels.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=godot"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GDScript-355570?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/akshatsingh1427/FunBros1">
-<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💰 Tally
-
-**Personal Finance Tracker**
-
-A privacy-first expense tracker featuring budgeting, interactive dashboards, analytics, monthly insights, CSV export, and responsive design.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/akshatsingh1427/Tally">
+<a href="https://github.com/akshatsingh1427/BactEvo">
 <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge"/>
 </a>
 
@@ -365,9 +474,9 @@ A privacy-first expense tracker featuring budgeting, interactive dashboards, ana
 
 <div align="center">
 
-| 🚀 Total Projects | 🏆 Hackathons | 💻 Main Domain |
-|:-----------------:|:------------:|:--------------:|
-| **16+** | **8+** | AI • ML • Full Stack • Data Science |
+| 🚀 Total Projects | 🏆 Hackathons | 💻 Core Expertise |
+|:-----------------:|:------------:|:-----------------:|
+| **19+** | **10+** | AI • MLOps • Cloud-Native • Full-Stack |
 
 </div>
 
